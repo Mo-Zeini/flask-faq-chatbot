@@ -275,7 +275,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/Mo-Zeini/Habit_Tracker_App/blob/main/LICENSE.txt) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Mo-Zeini/flask-faq-chatbot/blob/main/LICENSE.txt) file for details.
 
 ## Troubleshooting
 
